@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-let host = 'http://127.0.0.1:8000';
-// let host = 'http://api.keyou.site:8000';
+//let host = 'http://127.0.0.1:8000';
+let host = 'http://124.71.73.194:5100';
 
 
 // 登录
